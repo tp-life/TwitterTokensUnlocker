@@ -1,0 +1,5 @@
+{
+  "threads": 50,
+  "capsolver_key": "",
+  "allowed_captcha_solvers": ["capsolver"]
+}
